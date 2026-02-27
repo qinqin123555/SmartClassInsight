@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Logs and outputs
+exports/
+*.log
+
+# Models and large assets
+*.onnx
+*.pt
+*.pth
+*.bin
+
+# Datasets (prevent huge repo)
+datasets/
+dataset/
+data/
+
+# Caches
+*.cache
+
+# Build artifacts
+dist/
+build/
+*.spec

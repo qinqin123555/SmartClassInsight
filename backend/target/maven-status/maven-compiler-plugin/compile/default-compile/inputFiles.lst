@@ -1,0 +1,17 @@
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\controller\UserController.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\repo\DetectionRecordRepository.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\repo\UserRepository.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\config\CorsConfig.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\controller\RecordsController.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\entity\DetectionRecord.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\controller\DetectController.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\service\PythonDetectService.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\controller\AuthController.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\entity\User.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\service\RecordsService.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\config\DetectProperties.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\config\DataSeeder.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\config\WebConfig.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\dto\MetricSummary.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\Application.java
+d:\Thesis\yolov11\shenduxuexi1\backend\src\main\java\com\smartclassinsight\controller\MetricsController.java
